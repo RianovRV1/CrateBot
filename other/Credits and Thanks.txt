@@ -1,0 +1,19 @@
+Programmer: Tanner Posada
+
+concept designer: Ki Chesney
+
+level designer: Ki Chesney
+
+programmer artist: Ki Chesney
+
+SoundFx: Ki Chesney
+
+Special thanks to:
+
+3DBuzz for letting us use tutorial code to get this game to a playable state.
+
+Kayne West for being his Kanye best. 
+
+Sad Dad's all over the world, sorry for disappointing you
+
+Jodaduda for inspiring the programmer to make a game.

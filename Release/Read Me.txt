@@ -1,0 +1,7 @@
+Controls -
+A - left
+D - right
+space - jump
+f - suicide
+
+alt f4 to quit or play in windowed mode, whatever works.

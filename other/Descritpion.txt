@@ -1,0 +1,3 @@
+Cratebot is a puzzle platformer where you push frictionless crates (usueally onto switches) in order to progress through stages. if you mess up the crates in a stage you can kill yourself and leave a body behind to press down a switch and complete the level without collecting bonus stars.
+
+This version is an early prototype with basic non-verbal tutorial
